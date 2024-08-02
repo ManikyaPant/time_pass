@@ -1,0 +1,1000 @@
+ 1126  rmdir -rm nvim
+ 1127  rmdir --help
+ 1128  rm nvim
+ 1129  rmdir nvim
+ 1130  cd nvim
+ 1131  ls
+ 1132  rm init.vim \
+ 1133  rm init.vim 
+ 1134  ls
+ 1135  cd ..
+ 1136  rmdir nvim/
+ 1137  cd ~
+ 1138  git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1139  nvim
+ 1140  cd ./comfig
+ 1141  cd ./config
+ 1142  ls -la
+ 1143  cd .config/
+ 1144  ls
+ 1145  cd nvim
+ 1146  ls
+ 1147  rm init.lua
+ 1148  rm LICENSE
+ 1149  rmdir lua
+ 1150  cd lua
+ 1151  ls
+ 1152  cd core
+ 1153  cd ../../..
+ 1154  rm -rf nvim
+ 1155  ls
+ 1156  cd ~
+ 1157  git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1158  nvim
+ 1159  cd .config/
+ 1160  rm -rf nvim
+ 1161  git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1162  nvim
+ 1163  rm -rf nvim
+ 1164  git clone -b v1.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1165  git clone -b v3.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1166  git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1167  nvim
+ 1168  rm -rf nvim
+ 1169  clear
+ 1170  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1171  ls
+ 1172  rm -rf nvim
+ 1173  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1174  rm -rf nvim
+ 1175  rm -rf ~/.local/share/nvim
+ 1176  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1177  rm -rf nvim
+ 1178  rm -rf ~/.local/share/nvim
+ 1179  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1180  rm -rf ~/.local/share/nvim
+ 1181  rm -rf nvim
+ 1182  sudo add-apt-repository ppa:neovim-ppa/stable
+ 1183  sudo apt update
+ 1184  sudo apt install neovim
+ 1185  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1186  nvim --version
+ 1187  sudo apt-get install neovim
+ 1188  sudo add-apt-repository ppa:neovim-ppa/stable
+ 1189  sudo apt-get update
+ 1190  sudo apt-get install neovim
+ 1191  nvim --version
+ 1192  sudo apt remove neovim
+ 1193  rm -rf ~/.config/nvim
+ 1194  rm -rf ~/.local/share/nvim
+ 1195  rm -rf ~/.local/state/nvim
+ 1196  rm -rf ~/.cache/nvim
+ 1197  ls
+ 1198  cd ..\
+ 1199  cd ~
+ 1200  cd Downloads/
+ 1201  ls
+ 1202  chmod u+x nvim.appimage 
+ 1203  ./nvim.appimage 
+ 1204  clear
+ 1205  nvim
+ 1206  mv nvim.appimage  /usr/bin/nvim
+ 1207  sudo mv nvim.appimage  /usr/bin/nvim
+ 1208  nvim
+ 1209  cd ~
+ 1210  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1211  nvim
+ 1212  git clone https://github.com/ryanoasis/nerd-fonts.git
+ 1213  cd nerd-fonts
+ 1214  ./install.sh JetBrainsMono
+ 1215  !
+ 1216  git clone https://github.com/ryanoasis/nerd-fonts.git
+ 1217  cd nerd-fonts
+ 1218  ./install.sh JetBrainsMono
+ 1219  git clone https://github.com/ryanoasis/nerd-fonts.git
+ 1220  cd nerd-fonts
+ 1221  ./install.sh JetBrainsMono
+ 1222  git clone https://github.com/ryanoasis/nerd-fonts.git
+ 1223  cd Downloads/
+ 1224  unzip JetBrainsMono.zip -d ~/.local/share/fonts
+ 1225  fc-cache -fv
+ 1226  clear
+ 1227  rm -rf ~/.config/nvim
+ 1228  rm -rf ~/.local/share/nvim
+ 1229  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1230  nvim
+ 1231  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1232  rm -rf ~/.config/nvim
+ 1233  rm -rf ~/.local/share/nvim
+ 1234  git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+ 1235  git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1236  rm -rf ~/.config/nvim
+ 1237  rm -rf ~/.local/share/nvim
+ 1238  git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+ 1239  nvim
+ 1240  clang --version
+ 1241  sudo apt install clang
+ 1242  cd ~/.config/nvim
+ 1243  nvim
+ 1244  cd ~
+ 1245  cd coding
+ 1246  nvmin test.cpp
+ 1247  nvim test.cpp
+ 1248  cd ~/.config/nvim
+ 1249  nvim
+ 1250  cd ~
+ 1251  cd coding
+ 1252  code new.cpp
+ 1253  nvim new.cpp 
+ 1254  sudo apt update
+ 1255  sudo apt install clang clangd
+ 1256  nvim new.cpp 
+ 1257  cd ~
+ 1258  cd .config/
+ 1259  ls
+ 1260  cd nvim
+ 1261  nvim
+ 1262  nvim new.cpp 
+ 1263  nvim
+ 1264  nvim'
+ 1265  nvim
+ 1266  ls
+ 1267  nvim init.lua 
+ 1268  nvim
+ 1269  cat init.lua
+ 1270  nvim init.lua 
+ 1271  nvim
+ 1272  nvim init.lua 
+ 1273  nvim
+ 1274  nvim init.lua 
+ 1275  nvim
+ 1276  git clone https://github.com/wbthomason/packer.nvim ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+ 1277  nvim init.lua
+ 1278  nvim
+ 1279  luarock install luacheck 
+ 1280  luarocks install luacheck 
+ 1281  sudo luarocks install luacheck 
+ 1282  sudo apt install luarocks
+ 1283  luarocksa install luacheck
+ 1284  sudo luarocksa install luacheck
+ 1285  sudo luarocks install luacheck
+ 1286  nvim
+ 1287  nvim init.lua
+ 1288  nvim
+ 1289  nvim --cmd "lua require('packer').clean()"
+ 1290  nvim --cmd "lua require('packer').compile()"
+ 1291  nvim init.lua
+ 1292  nvim
+ 1293  nvim init.lua
+ 1294  nvim
+ 1295  nvim init.lua
+ 1296  nvim
+ 1297  nvim 
+ 1298  cd ~
+ 1299  cd .config/
+ 1300  nvcim
+ 1301  nvim
+ 1302  cd nvim
+ 1303  nvim
+ 1304  cd ~/.config/
+ 1305  cd nvim/
+ 1306  nvim
+ 1307  rm -rf ~./config/nvim
+ 1308  rm -rf ~/.local/share/nvim
+ 1309  nvim
+ 1310  sudo apt remove nvim
+ 1311  sudo apt remove neovim
+ 1312  nvim
+ 1313  cd bnin
+ 1314  cd bIN
+ 1315  cd ..
+ 1316  ls
+ 1317  cd bin
+ 1318  rm nvim
+ 1319  ls -la nvim
+ 1320  sudo rm nvim
+ 1321  cd ~
+ 1322  ls
+ 1323  nvim
+ 1324  sudo apt update
+ 1325  sudo apt install neovim
+ 1326  nvim --version
+ 1327  sudo remove neovim
+ 1328  sudo apt remove neovim
+ 1329  clear
+ 1330  cd Downloads
+ 1331  ls
+ 1332  nvim.appimage
+ 1333  cleare
+ 1334  clear
+ 1335  exit
+ 1336  cd Downloads/
+ 1337  ./nvim.appimage
+ 1338  sudo ./nvim.appimage
+ 1339  ls
+ 1340  chmod x+u nvim.appimage 
+ 1341  chmod x nvim.appimage 
+ 1342  chmod +x nvim.appimage 
+ 1343  ls
+ 1344  ./nvim.appimage
+ 1345  nvim
+ 1346  mv nvim.appimage /usr/bin/nvim
+ 1347  sudo mv nvim.appimage /usr/bin/nvim
+ 1348  cd ..
+ 1349  nvim
+ 1350  cd ~/.config/nvim
+ 1351  ls
+ 1352  cd lua
+ 1353  ls
+ 1354  cd ..
+ 1355  rm -rf nvim
+ 1356  ls
+ 1357  cd nvim
+ 1358  mkdir
+ 1359  mkdir nvim
+ 1360  nvim
+ 1361  cd nvim
+ 1362  ls
+ 1363  touch nvim.lua
+ 1364  nvim nvim.lua\
+ 1365  nvim nvim.lua
+ 1366  ls
+ 1367  nvim nvim.lua
+ 1368  nvim init.lua
+ 1369  ls
+ 1370  nvim init.lua
+ 1371  nvim
+ 1372  nvim init.lua
+ 1373  nvim
+ 1374  nvim init.lua
+ 1375  nvim
+ 1376  nvim,
+ 1377  nvim
+ 1378  nvim init.lua
+ 1379  cd ~
+ 1380  cd coding/
+ 1381  nvim my.cpp
+ 1382  cd .
+ 1383  cd ..
+ 1384  cd . .
+ 1385  cd .. 
+ 1386  ls
+ 1387  cd usr
+ 1388  ls
+ 1389  cd local/
+ 1390  ls
+ 1391  cd include
+ 1392  ls
+ 1393  mkdir bits
+ 1394  sudo mkdir bits
+ 1395  ls
+ 1396  cd bits
+ 1397  sudo cp ~/Downloads/stdc++.h stdc++.h
+ 1398  cd ~
+ 1399  cd coding
+ 1400  nevim my.cpp 
+ 1401  nvim my.cpp 
+ 1402  cd ~/.config/nvim
+ 1403  ls
+ 1404  nvim 
+ 1405  ls
+ 1406  cd lua
+ 1407  ls
+ 1408  cd plugins/
+ 1409  touch neo-tree.lua
+ 1410  nvin neo-tree.lua 
+ 1411  nvim neo-tree.lua 
+ 1412  ls
+ 1413  neovim treesitter.lua 
+ 1414  nvim treesitter.lua 
+ 1415  nvim neo-tree.lua 
+ 1416  nvim treesitter.lua 
+ 1417  nvim neo-tree.lua 
+ 1418  cd //
+ 1419  ls
+ 1420  cd home/
+ 1421  ls
+ 1422  cd manikya/
+ 1423  cd 
+ 1424  cd /.conf
+ 1425  ls
+ 1426  cd /.config
+ 1427  ls -la
+ 1428  cd .config/
+ 1429  ls
+ 1430  cd nvim/
+ 1431  ls
+ 1432  nvim init.lua 
+ 1433  nvim 
+ 1434  nvim init.lua 
+ 1435  nvim 
+ 1436  restart now
+ 1437  reboot now
+ 1438  sudo reboot now
+ 1439  cd codinf
+ 1440  cd coding
+ 1441  nvim my.cpp 
+ 1442  cd ~
+ 1443  cd ..
+ 1444  ls
+ 1445  cd usr
+ 1446  ls
+ 1447  cd local/
+ 1448  cd .. 
+ 1449  cd include/
+ 1450  ls
+ 1451  cd ..
+ 1452  cd use
+ 1453  cd us
+ 1454  cd usr
+ 1455  ls
+ 1456  cd include/
+ 1457  ls
+ 1458  cd bits
+ 1459  grep bits
+ 1460  ls -la
+ 1461  cd c++
+ 1462  ls
+ 1463  cd 11
+ 1464  ls
+ 1465  cxd bits
+ 1466  cd bitys
+ 1467  cd bits
+ 1468  ls
+ 1469  cd ../../
+ 1470  cd ..
+ 1471  cd clang/
+ 1472  la
+ 1473  ls
+ 1474  cd 14.0.0/
+ 1475  ls
+ 1476  cd include
+ 1477  ls
+ 1478  cd ~/Downloads
+ 1479  ls
+ 1480  mv stdc++.h /usr/include/clang/14.0.0/include
+ 1481  sudo mv stdc++.h /usr/include/clang/14.0.0/include
+ 1482  ls
+ 1483  cd ../coding
+ 1484  nvim my.cpp 
+ 1485  cd /usr/include/clang/14.0.0/include
+ 1486  ls
+ 1487  cd ..
+ 1488  ls
+ 1489  cd 14
+ 1490  ls
+ 1491  cd include
+ 1492  ls
+ 1493  shutdown 
+ 1494  shutdown now
+ 1495  cd ~/coding/
+ 1496  nvim test.cpp
+ 1497  apt search libstdc++
+ 1498  apt install libstdc++-12-dev
+ 1499  sudo apt install libstdc++-12-dev
+ 1500  ls /usr/lib/gcc/x86_64-linux-gnu/
+ 1501  nvim test.cpp
+ 1502  nvim
+ 1503  cd ~/.config/
+ 1504  cd nvim
+ 1505  ls
+ 1506  nvim
+ 1507  nvi, 
+ 1508  nvim
+ 1509  sudo apt install pip
+ 1510  nvim
+ 1511  cd ~/coding/
+ 1512  nvim test.cpp
+ 1513  apt search python3
+ 1514  sudo apt install python3
+ 1515  clear
+ 1516  sudo apt search clang-format
+ 1517  sudo apt install clang-format-15
+ 1518  clang-format-
+ 1519  clang-format-15
+ 1520  nvim test.cpp
+ 1521  cd ~/.config/nvim/
+ 1522  clear
+ 1523  nvim 
+ 1524  ls
+ 1525  cd lia
+ 1526  cd lua
+ 1527  ;s
+ 1528  ls
+ 1529  cd plugins/
+ 1530  ls
+ 1531  cat completions.lua 
+ 1532  ls
+ 1533  mkdir snippets
+ 1534  rm completions.lua 
+ 1535  nvim completions.lua
+ 1536  nvim 
+ 1537  nvim completions.lua
+ 1538  nvim 
+ 1539  ls
+ 1540  rm snippets/
+ 1541  cd snippets/
+ 1542  ls
+ 1543  cd 
+ 1544  cd ~/.config/nvim/lua/plugins
+ 1545  rm -rf snippets/
+ 1546  nvim
+ 1547  mkdir snippets
+ 1548  cd snippets
+ 1549  rm -rf
+ 1550  cd ..
+ 1551  ls
+ 1552  rm -rf snippets
+ 1553  cd ..
+ 1554  cd ,,
+ 1555  cd .. 
+ 1556  mkdir snippets
+ 1557  nvim
+ 1558  cd snippets
+ 1559  ls
+ 1560  nvim cpp.json
+ 1561  nvim
+ 1562  cd ..
+ 1563  nvim 
+ 1564  ls
+ 1565  mv /snippets/ /my_snippets/
+ 1566  mv ~/.config/nvim/snippets/  ~/.config/nvim/my_snippets/
+ 1567  ls
+ 1568  cd my_snippets
+ 1569  ls
+ 1570  cd ../
+ 1571  nvim
+ 1572  nvims
+ 1573  nvim
+ 1574  cd ..
+ 1575  cd coding
+ 1576  nvim test.json
+ 1577  ls
+ 1578  cd snippets
+ 1579  ls
+ 1580  cd ~/coding/
+ 1581  nvim tets.json
+ 1582  nvim new.cpp
+ 1583  ls
+ 1584  nvim new.cpp
+ 1585  code
+ 1586  cd ~/.config/nvim/my_snippets/
+ 1587  nvim cpp.json 
+ 1588  cd ~/coding/
+ 1589  nvim new.cpp
+ 1590  cd ~/.config/nvim
+ 1591  nvim
+ 1592  clear
+ 1593  cd ~/coding
+ 1594  ls
+ 1595  pip3 install pynvim
+ 1596  sudo apt install python3-venv
+ 1597  sudo apt install python3.10-venv
+ 1598  nvim
+ 1599  nvim test.cpp
+ 1600  cd ~/.config/
+ 1601  cd nvim
+ 1602  nvim
+ 1603  cd ~/coding/
+ 1604  ls -la
+ 1605  nvim map.cpp
+ 1606  clear
+ 1607  nvim not_dividing.cpp
+ 1608  nvim three_seven.cpp
+ 1609  nvim casion.cpp
+ 1610  nvim li_hua.cpp
+ 1611  g++ not_dividing.cpp 
+ 1612  ./a.out
+ 1613  g++ not_dividing.cpp 
+ 1614  ./a.out
+ 1615  g++ not_dividing.cpp 
+ 1616  ./a.out
+ 1617  g++ three_seven.cpp 
+ 1618  ./a.out
+ 1619  3
+ 1620  2 9 1
+ 1621  2
+ 1622  1 4
+ 1623  2
+ 1624  1 2
+ 1625  2
+ 1626  2 1
+ 1627  4
+ 1628  1 2 3 4
+ 1629  1
+ 1630  4
+ 1631  1
+ 1632  3
+ 1633  clear
+ 1634  g++ three_seven.cpp 
+ 1635  g++ three_seven.cpp -g
+ 1636  gdb ./a.out
+ 1637  g++ three_seven.cpp -g
+ 1638  ./a.out 
+ 1639  g++ three_seven.cpp -g
+ 1640  ./a.out 
+ 1641  g++ three_seven.cpp -g
+ 1642  ./a.out 
+ 1643  g++ three_seven.cpp -g
+ 1644  ./a.out
+ 1645  g++ three_seven.cpp -g
+ 1646  clear
+ 1647  g++ three_seven.cpp -g
+ 1648  ./a.out
+ 1649  g++ three_seven.cpp -g
+ 1650  ./a.out
+ 1651  g++ three_seven.cpp -g
+ 1652  ./a.out
+ 1653  g++ three_seven.cpp -g
+ 1654  ./a.out
+ 1655  g++ three_seven.cpp -g
+ 1656  ./a.out
+ 1657  g++ three_seven.cpp -g
+ 1658  ./a.out
+ 1659  g++ three_seven.cpp -g
+ 1660  ./a.out
+ 1661  g++ three_seven.cpp -g
+ 1662  ./a.out
+ 1663  g++ casion.cpp
+ 1664  ./a.out
+ 1665  g++ li_hua.cpp 
+ 1666  ./a.out
+ 1667  g++ li_hua.cpp 
+ 1668  ./a.out
+ 1669  g++ li_hua.cpp 
+ 1670  ./a.out
+ 1671  g++ li_hua.cpp 
+ 1672  ./a.out
+ 1673  g++ li_hua.cpp 
+ 1674  ./a.out
+ 1675  g++ li_hua.cpp 
+ 1676  ./a.out
+ 1677  g++ test.cpp
+ 1678  ./a.out
+ 1679  g++ hua_lip.cpp
+ 1680  g++ li_hua.cpp 
+ 1681  ./a.out
+ 1682  shutdown now 
+ 1683  cd coding/
+ 1684  la
+ 1685  neofetch
+ 1686  clear
+ 1687  neofetch
+ 1688  ls -la
+ 1689  nvim a.out
+ 1690  clear
+ 1691  nvim sort_with_step.cpp
+ 1692  nvim indivisible.cpp
+ 1693  nvim jellyfish.cpp
+ 1694  nvim immortal.cpp
+ 1695  nvim balanced_susbtrings.cpp
+ 1696  g++ sort_with_step.cpp 
+ 1697  ./a.out
+ 1698  g++ sort_with_step.cpp 
+ 1699  ./a.out
+ 1700  g++ indivisible.cpp 
+ 1701  ./a.out
+ 1702  g++ indivisible.cpp 
+ 1703  ./a.out
+ 1704  g++ indivisible.cpp 
+ 1705  ./a.out
+ 1706  clear
+ 1707  g++ jellyfish.cpp 
+ 1708  ./a.out
+ 1709  g++ jellyfish.cpp 
+ 1710  ./a.out
+ 1711  g++ jellyfish.cpp 
+ 1712  ./a.out
+ 1713  g++ jellyfish.cpp 
+ 1714  ./a.out
+ 1715  clear
+ 1716  g++ immortal.cpp
+ 1717  ./a.out
+ 1718  g++ immortal.cpp
+ 1719  ./a.out
+ 1720  g++ immortal.cpp
+ 1721  ./a.out
+ 1722  g++ immortal.cpp
+ 1723  ./a.out
+ 1724  g++ immortal.cpp
+ 1725  ./a.out
+ 1726  g++ immortal.cpp
+ 1727  ./a.out
+ 1728  g++ immortal.cpp
+ 1729  ./a.out
+ 1730  g++ balanced_susbtrings.cpp 
+ 1731  ./a.out
+ 1732  g++ balanced_susbtrings.cpp 
+ 1733  ./a.out
+ 1734  g++ balanced_susbtrings.cpp 
+ 1735  ./a.out
+ 1736  g++ balanced_susbtrings.cpp 
+ 1737  ./a.out
+ 1738  g++ balanced_susbtrings.cpp 
+ 1739  ./a.out
+ 1740  g++ balanced_susbtrings.cpp 
+ 1741  ./a.out
+ 1742  g++ balanced_susbtrings.cpp 
+ 1743  ./a.out
+ 1744  g++ balanced_susbtrings.cpp 
+ 1745  ./a.out
+ 1746  g++ balanced_susbtrings.cpp 
+ 1747  ./a.out
+ 1748  g++ balanced_susbtrings.cpp 
+ 1749  ./a.out
+ 1750  g++ nikita_string.cpp 
+ 1751  ./a.out
+ 1752  g++ nikita_string.cpp 
+ 1753  ./a.out
+ 1754  g++ nikita_string.cpp 
+ 1755  ./a.out
+ 1756  g++ nikita_string.cpp 
+ 1757  ./a.out
+ 1758  g++ nikita_string.cpp 
+ 1759  ./a.out
+ 1760  g++ nikita_string.cpp 
+ 1761  ./a.out
+ 1762  g++ nikita_string.cpp 
+ 1763  ./a.out
+ 1764  g++ nikita_string.cpp 
+ 1765  ./a.out
+ 1766  g++ nikita_string.cpp 
+ 1767  ./a.out
+ 1768  g++ nikita_string.cpp 
+ 1769  ./a.out
+ 1770  g++ nikita_string.cpp 
+ 1771  ./a.out
+ 1772  g++ nikita_string.cpp 
+ 1773  ./a.out
+ 1774  g++ nikita_string.cpp 
+ 1775  ./a.out
+ 1776  code nikita_string.cpp 
+ 1777  g++ nikita_string.cpp 
+ 1778  ./a.out
+ 1779  g++ nikita_string.cpp 
+ 1780  ./a.out
+ 1781  g++ nikita_string.cpp 
+ 1782  ./a.out
+ 1783  g++ nikita_string.cpp 
+ 1784  ./a.out
+ 1785  g++ nikita_string.cpp 
+ 1786  ./a.out
+ 1787  clear
+ 1788  code 
+ 1789  reboot now
+ 1790  sudo reboot now 
+ 1791  code
+ 1792  code 
+ 1793  sudo snap 
+ 1794  snap remove code
+ 1795  sudo sanp install code
+ 1796  sudo snap install code
+ 1797  sudo snap install code --classic
+ 1798  g++ guess.cpp
+ 1799  ./a.out
+ 1800  code test.cpp
+ 1801  g++ xor.cpp
+ 1802  ./a.out
+ 1803  g++ xor.cpp
+ 1804  ./a.out
+ 1805  g++ xor.cpp
+ 1806  ./a.out
+ 1807  g++ xor.cpp
+ 1808  ./a.out
+ 1809  g++ xor.cpp
+ 1810  ./a.out
+ 1811  g++ xor.cpp
+ 1812  ./a.out
+ 1813  g++ xor.cpp
+ 1814  ./a.out
+ 1815  g++ bet.cpp
+ 1816  nvim bet.cpp
+ 1817  cd coding
+ 1818  nvim guess.cpp
+ 1819  g++ bet.cpp
+ 1820  ./a.out
+ 1821  g++ bet.cpp
+ 1822  ./a.out
+ 1823  shutdown now
+ 1824  g++ table_tennis.cpp 
+ 1825  ./a.out
+ 1826  g++ table_tennis.cpp 
+ 1827  ./a.out
+ 1828  g++ table_tennis.cpp 
+ 1829  ./a.out
+ 1830  g++ table_tennis.cpp 
+ 1831  ./a.out
+ 1832  g++ string_removal.cpp 
+ 1833  ./a.out
+ 1834  g++ string_removal.cpp 
+ 1835  ./a.out
+ 1836  g++ string_removal.cpp 
+ 1837  ./a.out
+ 1838  g++ string_removal.cpp 
+ 1839  ./a.out
+ 1840  neofetch
+ 1841  clear
+ 1842  neofetch ascii_art arch
+ 1843  shutdown now
+ 1844  code
+ 1845  nvim
+ 1846  cd coding
+ 1847  nvim nikita_string.cpp 
+ 1848  nvim table_tennis.cpp
+ 1849  cd coding
+ 1850  ls
+ 1851  cleart
+ 1852  clear
+ 1853  neofetch 
+ 1854  who 
+ 1855  who am i
+ 1856  who
+ 1857  pwds
+ 1858  pwd
+ 1859  clear
+ 1860  help
+ 1861  clear
+ 1862  isp
+ 1863  ip
+ 1864  ip address 
+ 1865  clear
+ 1866  ip address
+ 1867  clear
+ 1868  nvim
+ 1869  flappy
+ 1870  clear
+ 1871  apt
+ 1872  sudo apt reinstall code
+ 1873  sudo snap reinstall code
+ 1874  clear
+ 1875  nvim median.cpp
+ 1876  g++ median.cpp
+ 1877  clear
+ 1878  ./a.out
+ 1879  g++ median.cpp
+ 1880  ./a.out
+ 1881  g++ zero_max.cpp 
+ 1882  ./aout
+ 1883  ./a.out
+ 1884  g++ zero_max.cpp 
+ 1885  ./a.out
+ 1886  g++ zero_max.cpp 
+ 1887  ./a.out
+ 1888  g++ zero_max.cpp 
+ 1889  ./a.out
+ 1890  g++ zero_max.cpp 
+ 1891  ./a.out
+ 1892  g++ zero_max.cpp 
+ 1893  ./a.out
+ 1894  g++ zero_max.cpp 
+ 1895  ./a.out
+ 1896  g++ zero_max.cpp 
+ 1897  ./a.out
+ 1898  g++ zero_max.cpp 
+ 1899  ./a.out
+ 1900  g++ zero_max.cpp 
+ 1901  ./a.out
+ 1902  g++ zero_max.cpp 
+ 1903  ./a.out
+ 1904  apt search qbit
+ 1905  cd Downloads/
+ 1906  ls
+ 1907  ./qbittorrent-4.6.5_lt20_x86_64.AppImage
+ 1908  sudo chmod +x qbittorrent-4.6.5_lt20_x86_64.AppImage
+ 1909  ./qbittorrent-4.6.5_lt20_x86_64.AppImage
+ 1910  qbittoorent
+ 1911  sudo apt install qbittorrent
+ 1912  qbittorrent 
+ 1913  clear
+ 1914  qbittorrent 
+ 1915  cd~
+ 1916  cd ~
+ 1917  clear
+ 1918  df -h
+ 1919  cd /dev/
+ 1920  ls
+ 1921  reboot
+ 1922  kill
+ 1923  kill all
+ 1924  shutdown now 
+ 1925  sudo apt install nvidia-settings
+ 1926  nvidia-settings 
+ 1927  reboot
+ 1928  sudo reboot
+ 1929  reboot
+ 1930  cd coding
+ 1931  ls
+ 1932  nvim decrypt.cpp
+ 1933  g++ decryot.cpp
+ 1934  g++ decrypt.cpp 
+ 1935  ./a.out
+ 1936  sudo apt install cmake libncurses5-dev git
+ 1937  git clone https://github.com/Syllo/nvtop.git
+ 1938  cd nvtop
+ 1939  mkdir build
+ 1940  cd build
+ 1941  cmake ..
+ 1942  make
+ 1943  sudo make install
+ 1944  makefile
+ 1945  apt search makefile
+ 1946  ~nvtop
+ 1947  nvtop
+ 1948  cd ~
+ 1949  nvtop
+ 1950  git clone https://github.com/Syllo/nvtop.git
+ 1951  cd nvtop
+ 1952  mkdir build
+ 1953  cd build
+ 1954  cmake ..
+ 1955  make
+ 1956  sudo make install
+ 1957  cd ..
+ 1958  ls
+ 1959  cd ..
+ 1960  rm -rf nvtop
+ 1961  git clone https://github.com/Syllo/nvtop.git
+ 1962  cd nvtop
+ 1963  mkdir build
+ 1964  cd build
+ 1965  cmake ..
+ 1966  make
+ 1967  sudo make install
+ 1968  sudo apt install cmake libncurses5-dev git
+ 1969  git clone https://github.com/Syllo/nvtop.git
+ 1970  cd nvtop
+ 1971  mkdir build
+ 1972  cd build
+ 1973  cmake ..
+ 1974  make
+ 1975  sudo make install
+ 1976  ls
+ 1977  cd manikya
+ 1978  lds
+ 1979  ;s
+ 1980  ls
+ 1981  rm -rf nvtop
+ 1982  ls
+ 1983  git clone https://github.com/Syllo/nvtop.git
+ 1984  cd nvtop
+ 1985  mkdir build
+ 1986  cd build
+ 1987  cmake ..
+ 1988  make
+ 1989  sudo make install
+ 1990  nvtop
+ 1991  sudo snao install nvtop
+ 1992  sudo snaop install nvtop
+ 1993  sudo snap install nvtop
+ 1994  nvtop
+ 1995  [A
+ 1996  nvtop
+ 1997  cd ~
+ 1998  nvtop
+ 1999  g++ strange_split.cpp 
+ 2000  ./a.out
+ 2001  g++ strange_split.cpp 
+ 2002  ./a.out
+ 2003  g++ strange_split.cpp 
+ 2004  ./a.out
+ 2005  g++ large_num.cpp 
+ 2006  ./a.outy
+ 2007  ./a.out
+ 2008  ./a.outy
+ 2009  g++ large_num.cpp 
+ 2010  ./a.out
+ 2011  g++ large_num.cpp 
+ 2012  ./a.out
+ 2013  ./a.out > error_log.txt
+ 2014  nvim error_log.txt 
+ 2015  nvim pair_sum.cpp
+ 2016  tekken 
+ 2017  cd .. 
+ 2018  cd ..
+ 2019  cd .
+ 2020  cd ..
+ 2021  ls
+ 2022  cd lost+found/
+ 2023  sudo cd lost+found/
+ 2024  cd lib64
+ 2025  ls
+ 2026  cd ld-lin
+ 2027  clear
+ 2028  cd ~
+ 2029  ls
+ 2030  cd coding
+ 2031  cd snap
+ 2032  ./snap
+ 2033  g++ nearest_smal.cpp 
+ 2034  ./a.out
+ 2035  4
+ 2036  1 1 2 1
+ 2037  5
+ 2038  1 3 2 6 6
+ 2039  g++ nearest_smal.cpp 
+ 2040  ./a.out
+ 2041  g++ nearest_smal.cpp 
+ 2042  ./a.out
+ 2043  g++ nearest_smal.cpp 
+ 2044  ./a.out
+ 2045  g++ nearest_smal.cpp 
+ 2046  ./a.out
+ 2047  4
+ 2048  1 2 3 4
+ 2049  4
+ 2050  g++ nearest_smal.cpp 
+ 2051  ./a.out
+ 2052  4
+ 2053  1 2 3 4
+ 2054  4
+ 2055  g++ nearest_smal.cpp 
+ 2056  ./a.out
+ 2057  g++ nearest_smal.cpp 
+ 2058  ./a.out
+ 2059  g++ nearest_smal.cpp 
+ 2060  ./a.out
+ 2061  g++ nearest_smal.cpp 
+ 2062  ./a.out
+ 2063  g++ nearest_smal.cpp 
+ 2064  ./a.out
+ 2065  g++ nearest_smal.cpp 
+ 2066  ./a.out
+ 2067  g++ nearest_smal.cpp 
+ 2068  ./a.out
+ 2069  g++ nearest_smal.cpp 
+ 2070  ./a.out
+ 2071  g++ nearest_smal.cpp 
+ 2072  ./a.out
+ 2073  g++ nearest_smal.cpp 
+ 2074  ./a.out
+ 2075  g++ nearest_smal.cpp 
+ 2076  ./a.out
+ 2077  g++ nearest_smal.cpp 
+ 2078  ./a.out
+ 2079  using namespace std;
+ 2080  #define endl '\n'
+ 2081  #define int long long
+ 2082  const int MOD = 1e9 + 7;
+ 2083  const int INF = LLONG_MAX >> 1;
+ 2084  void solve() {
+ 2085  const int INF = LLONG_MAX >> 1;
+ 2086  g++ nearest_smal.cpp 
+ 2087  ./a.out
+ 2088  g++ nearest_smal.cpp 
+ 2089  ./a.out
+ 2090  g++ nearest_smal.cpp 
+ 2091  ./a.out
+ 2092  g++ nearest_smal.cpp 
+ 2093  ./a.out
+ 2094  g++ nearest_smal.cpp 
+ 2095  ./a.out
+ 2096  g++ nearest_smal.cpp 
+ 2097  ./a.out
+ 2098  g++ nearest_smal.cpp 
+ 2099  ./a.out
+ 2100  g++ nearest_smal.cpp 
+ 2101  ./a.out
+ 2102  g++ nearest_smal.cpp 
+ 2103  ./a.out
+ 2104  g++ nearest_smal.cpp 
+ 2105  ./a.out
+ 2106  g++ nearest_smal.cpp 
+ 2107  ./a.out
+ 2108  g++ nearest_smal.cpp 
+ 2109  ./a.out
+ 2110  g++ nearest_smal.cpp 
+ 2111  ./a.out
+ 2112  g++ nearest_smal.cpp 
+ 2113  ./a.out
+ 2114  g++ nearest_smal.cpp 
+ 2115  ./a.out
+ 2116  cd !
+ 2117  cd ~
+ 2118  apt search vlc
+ 2119  apt search vlc media
+ 2120  apt search vlc media player
+ 2121  sudo apt install vlc
+ 2122  cd ~
+ 2123  cd coding
+ 2124  clear
+ 2125  history >> history.txt
