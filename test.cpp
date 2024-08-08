@@ -1,24 +1,51 @@
-/* Author: Serpentx
-    Noob here xD    */
 #include <bits/stdc++.h>
-using namespace std;
+#define pb push_back
 #define endl '\n'
-#define int long long
-const int MOD =1e9+7;
-const int INF=LLONG_MAX >>1;
+#define lli long long int
+#define li long int
+#define ld long double
+#define vi vector<int>
+#define vii vector<int, int>
+#define pii pair<int, int>
+using namespace std;
+const lli mod = 1e9 + 7;
 
-void solve() {
-
-
+lli solve(vector<lli> arr, lli max_val, lli target)
+{
+	lli l = 0, r = target * max_val + 1, mid, curr_output, ans;
+	while (l <= r)
+	{
+		mid = l + (r - l) / 2;
+		curr_output = 0;
+		for (lli ele : arr)
+		{
+			curr_output += mid / ele;
+		}
+		if (curr_output >= target)
+		{
+			ans = mid;
+			r = mid - 1;
+		}
+		else
+		{
+			l = mid + 1;
+		}
+	}
+	return ans;
 }
 
-signed main() {
-ios::sync_with_stdio(0); cin.tie(NULL); cout.tie(NULL);
- 
- int t=1;
-cin >> t;
- while(t--) {
-solve();
-}
-return 0;
+int main()
+{
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	lli n, target, max_val = 0;
+	cin >> n >> target;
+	vector<lli> arr(n);
+	for (lli i = 0; i < n; i++)
+	{
+		cin >> arr[i];
+		max_val = max(max_val, arr[i]);
+	}
+	cout << solve(arr, max_val, target);
+	return 0;
 }
