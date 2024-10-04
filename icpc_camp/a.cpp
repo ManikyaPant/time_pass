@@ -8,7 +8,19 @@ const int MOD =1e9+7;
 const int INF=LLONG_MAX >>1;
 
 void solve() {
-
+int n;
+        cin >> n;
+       set <int> st;
+        int c=0;
+        for(int i=0;i<n;i++) {
+           int val;
+                cin >> val;
+                if(st.find(val+1)==st.end()) {
+                   c++;
+                }
+                st.insert(val);
+        }
+        cout << c << endl;
 
 }
 

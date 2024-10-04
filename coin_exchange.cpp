@@ -1,0 +1,38 @@
+/* Author: Serpentx
+    Noob here xD           */
+#include <bits/stdc++.h>
+using namespace std;
+#define endl '\n'
+#define int long long
+const int MOD =1e9+7;
+const int INF=LLONG_MAX >>1;
+
+void solve() {
+int N=43;
+        int arr[]={ 1, 2, 5, 10, 20, 50, 100, 200, 500, 2000 };
+        vector <int> ans;
+        int idx=9;
+        while(N!=0) {
+          if(N-arr[idx]>=0) {
+               ans.push_back(arr[idx]);
+               N=N-arr[idx];
+             }
+          else
+          idx--;
+}
+        for(auto it: ans)
+                cout << it << " ";
+                cout << endl;
+}
+
+
+signed main() {
+ios::sync_with_stdio(0); cin.tie(NULL); cout.tie(NULL);
+ 
+ int t=1;
+cin >> t;
+ while(t--) {
+solve();
+}
+return 0;
+}
